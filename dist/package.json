@@ -1,0 +1,25 @@
+{
+    "main": "index.html",
+    "name": "DianYinGuanJia",
+    "version": "6.0.0",
+    "keywords": [
+        "DianYinGuanJia",
+        "node-webkit"
+    ],
+    "window": {
+      "title": "DianYinGuanJia",
+      "icon": "static/images/LOGO60x60.png",
+      "toolbar": true,
+      "width": 1024,
+      "height": 660,
+      "min_width": 800,
+      "min_height": 600,
+      "resizable": false,
+      "show_in_taskbar": true,
+      "frame":true
+    },
+    "webkit": {
+      "plugin": true,
+      "double_tap_to_zoom_enabled": true
+    }
+}
